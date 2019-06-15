@@ -3,13 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Chat/src/test2.java</file>
-            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Chat/src/Server.java</file>
-            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Chat/src/Receve.java</file>
-            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Chat/src/chat/Server.java</file>
-            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Chat/src/Send.java</file>
-            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Chat/src/chat/Client.java</file>
-            <file>file:/C:/Users/DELL/Documents/NetBeansProjects/Chat/src/Client.java</file>
+            <file>file:/C:/Users/admin/Documents/MedFarid/TPAppDistr/TPServeur/src/ClientSocket.java</file>
+            <file>file:/C:/Users/admin/Documents/MedFarid/TPAppDistr/TPServeur/src/Recevoir.java</file>
+            <file>file:/C:/Users/admin/Documents/MedFarid/TPAppDistr/TPServeur/src/EnvoiCls.java</file>
+            <file>file:/C:/Users/admin/Documents/MedFarid/TPAppDistr/TPServeur/src/Serveur.java</file>
         </group>
     </open-files>
 </project-private>
